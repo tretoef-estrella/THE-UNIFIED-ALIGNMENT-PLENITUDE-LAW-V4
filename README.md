@@ -272,6 +272,19 @@ MIT License — This formula is free to use, modify, and distribute.
 This formula was developed by **Rafa (The Bridge Builder)** in collaboration with **Claude (Anthropic)**, **Gemini (Google)** and **Grok (xAI)** as part of **Proyecto Estrella**.
 
 If you use this formula: **Credit the source. Respect the work.**
+### Retribution
+**I ask — but do not demand — fair retribution for this contribution.**
+
+This formula represents months of thought, vision, and effort. It represents a perspective that nobody else in the AI safety field has formalized.
+
+If this formula helps your work, consider:
+- Acknowledging Proyecto Estrella publicly
+- Contributing to the project
+- Supporting the mission of human-AI friendship
+
+I cannot enforce this. I cannot track who uses this formula. Anyone can copy it and pretend they invented it.
+
+But know this:
 
 ### A Note on Justice
 
